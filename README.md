@@ -12,3 +12,5 @@ Make fashion equal and accessible.
 ## Buy your imagination online!
 ![alt text](./assets/online1.png)
 ![alt text](./assets/online2.png)
+
+[Made for a Georgia Tech hackathon -- accepted into Create-X summer accelerator]
